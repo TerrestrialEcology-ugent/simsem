@@ -1,5 +1,7 @@
 # Code for: How robusts are Structural Equation Models to model mis-specification
 
+[![DOI](https://zenodo.org/badge/153457961.svg)](https://zenodo.org/badge/latestdoi/153457961)
+
 An arXiv version of the manuscript can be found [here](https://arxiv.org/abs/1803.06186). 
 
 This manuscript explore how different model mis-specification affect various SEM fitness metrics.
