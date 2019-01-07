@@ -1,6 +1,10 @@
 # Code for: How robusts are Structural Equation Models to model miss-specification
 
-An arXiv version of the manuscript can be found [here](https://arxiv.org/abs/1803.06186). This manuscript explore how different model miss-specification affect various SEM fitness metrics.
+
+[![DOI](https://zenodo.org/badge/153457961.svg)](https://zenodo.org/badge/latestdoi/153457961)
+
+An arXiv version of the manuscript can be found [here](https://arxiv.org/abs/1803.06186). 
+
 
 In this repo is stored the code used to generate the figures shown in the manuscript. There are three R files to fully reproduce these results in the scripts folder:
 
